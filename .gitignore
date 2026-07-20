@@ -1,0 +1,39 @@
+﻿# Compilados de C/C++
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.dll
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Archivos temporales
+temp/
+tmp/
+build/
+input.txt
+output.txt
+expected.txt
+debug.txt
+
+# Variables privadas
+.env
+.env.*
+*.key
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Material bibliográfico
+books/
+pdfs/
+*.pdf
+*.epub
