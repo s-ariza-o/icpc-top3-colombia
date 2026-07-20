@@ -43,3 +43,6 @@ pdfs/
 .vscode/*
 !.vscode/tasks.json
 !.vscode/c_cpp_properties.json
+
+# CPH local metadata and test binaries
+.cph/
